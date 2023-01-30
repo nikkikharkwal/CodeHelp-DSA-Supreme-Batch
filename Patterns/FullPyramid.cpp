@@ -12,9 +12,6 @@ int main() {
     for(int k = 0; k < i; k++){
       cout << " *";
     }
-    for(int z = 0;z < N;z++){
-      cout << " ";
-    }
     cout << endl;
   }
 }
