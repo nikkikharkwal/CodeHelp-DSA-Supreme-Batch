@@ -29,56 +29,69 @@ A pattern provides a general template for a solution that can be applied in many
 ## Solid Rectangle
 
 ![Solid Rectangle](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Solid%20Rectangle.png)
+[Go Back](#patterns)
 
 ## Solid Square
 
 ![Solid Square](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Solid%20Square.png)
+[Go Back](#patterns)
 
 ## Hollow Rectangle
 
 ![Hollow Rectangle](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Hollow%20Rectangle.png)
+[Go Back](#patterns)
 
 ## Half Pyramid
 
 ![Half Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Half%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Inverted Half Pyramid
 
 <!-- Nikki Kharkwal -->
 
 ![Inverted Half Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Inverted%20Half%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Numeric Half Pyramid
 
 ![Numeric Half Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Numeric%20Half%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Inverted Numeric Half Pyramid
 
 ![Inverted Numeric Half Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Inverted%20Numeric%20Half%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Full Pyramid
 
 ![Full Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Full%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Inverted Full Pyramid
 
 ![Inverted Full Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Inverted%20Full%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Hollow Full Pyramid
 
 ![Hollow Full Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Hollow%20Full%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Numeric Full Pyramid
 
 ![Numeric Full Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Numeric%20Full%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Numeric Hollow Inverted Half Pyramid
 
 ![Numeric Hollow Inverted Half Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Numeric%20Hollow%20Inverted%20Half%20Pyramid.png)
+[Go Back](#patterns)
 
 ## Solid Rhombus
 
 ![Solid Rhombus](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Solid%20Rhombus.jpg)
+[Go Back](#patterns)
 
 <br/>
 
@@ -89,4 +102,6 @@ A pattern provides a general template for a solution that can be applied in many
 [MIT](https://lbesson.mit-license.org/)
 © [Nikki Kharkwal](https://github.com/nikkikharkwal)
 
-![Love](https://img.shields.io/badge/Love-pink?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIFNwb25zb3JzIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xNy42MjUgMS40OTljLTIuMzIgMC00LjM1NCAxLjIwMy01LjYyNSAzLjAzLTEuMjcxLTEuODI3LTMuMzA1LTMuMDMtNS42MjUtMy4wM0MzLjEyOSAxLjQ5OSAwIDQuMjUzIDAgOC4yNDljMCA0LjI3NSAzLjA2OCA3Ljg0NyA1LjgyOCAxMC4yMjdhMzMuMTQgMzMuMTQgMCAwIDAgNS42MTYgMy44NzZsLjAyOC4wMTcuMDA4LjAwMy0uMDAxLjAwM2MuMTYzLjA4NS4zNDIuMTI2LjUyMS4xMjUuMTc5LjAwMS4zNTgtLjA0MS41MjEtLjEyNWwtLjAwMS0uMDAzLjAwOC0uMDAzLjAyOC0uMDE3YTMzLjE0IDMzLjE0IDAgMCAwIDUuNjE2LTMuODc2QzIwLjkzMiAxNi4wOTYgMjQgMTIuNTI0IDI0IDguMjQ5YzAtMy45OTYtMy4xMjktNi43NS02LjM3NS02Ljc1em0tLjkxOSAxNS4yNzVhMzAuNzY2IDMwLjc2NiAwIDAgMS00LjcwMyAzLjMxNmwtLjAwNC0uMDAyLS4wMDQuMDAyYTMwLjk1NSAzMC45NTUgMCAwIDEtNC43MDMtMy4zMTZjLTIuNjc3LTIuMzA3LTUuMDQ3LTUuMjk4LTUuMDQ3LTguNTIzIDAtMi43NTQgMi4xMjEtNC41IDQuMTI1LTQuNSAyLjA2IDAgMy45MTQgMS40NzkgNC41NDQgMy42ODQuMTQzLjQ5NS41OTYuNzk3IDEuMDg2Ljc5Ni40OS4wMDEuOTQzLS4zMDIgMS4wODUtLjc5Ni42My0yLjIwNSAyLjQ4NC0zLjY4NCA0LjU0NC0zLjY4NCAyLjAwNCAwIDQuMTI1IDEuNzQ2IDQuMTI1IDQuNSAwIDMuMjI1LTIuMzcgNi4yMTYtNS4wNDggOC41MjN6Ii8+PC9zdmc+)
+![Love](https://img.shields.io/badge/Love-pink?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIFNwb25zb3JzIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xNy42MjUgMS40OTljLTIuMzIgMC00LjM1NCAxLjIwMy01LjYyNSAzLjAzLTEuMjcxLTEuODI3LTMuMzA1LTMuMDMtNS42MjUtMy4wM0MzLjEyOSAxLjQ5OSAwIDQuMjUzIDAgOC4yNDljMCA0LjI3NSAzLjA2OCA3Ljg0NyA1LjgyOCAxMC4yMjdhMzMuMTQgMzMuMTQgMCAwIDAgNS42MTYgMy44NzZsLjAyOC4wMTcuMDA4LjAwMy0uMDAxLjAwM2MuMTYzLjA4NS4zNDIuMTI2LjUyMS4xMjUuMTc5LjAwMS4zNTgtLjA0MS41MjEtLjEyNWwtLjAwMS0uMDAzLjAwOC0uMDAzLjAyOC0uMDE3YTMzLjE0IDMzLjE0IDAgMCAwIDUuNjE2LTMuODc2QzIwLjkzMiAxNi4wOTYgMjQgMTIuNTI0IDI0IDguMjQ5YzAtMy45OTYtMy4xMjktNi43NS02LjM3NS02Ljc1em0tLjkxOSAxNS4yNzVhMzAuNzY2IDMwLjc2NiAwIDAgMS00LjcwMyAzLjMxNmwtLjAwNC0uMDAyLS4wMDQuMDAyYTMwLjk1NSAzMC45NTUgMCAwIDEtNC43MDMtMy4zMTZjLTIuNjc3LTIuMzA3LTUuMDQ3LTUuMjk4LTUuMDQ3LTguNTIzIDAtMi43NTQgMi4xMjEtNC41IDQuMTI1LTQuNSAyLjA2IDAgMy45MTQgMS40NzkgNC41NDQgMy42ODQuMTQzLjQ5NS41OTYuNzk3IDEuMDg2Ljc5Ni40OS4wMDEuOTQzLS4zMDIgMS4wODUtLjc5Ni42My0yLjIwNSAyLjQ4NC0zLjY4NCA0LjU0NC0zLjY4NCAyLjAwNCAwIDQuMTI1IDEuNzQ2IDQuMTI1IDQuNSAwIDMuMjI1LTIuMzcgNi4yMTYtNS4wNDggOC41MjN6Ii8+PC9zdmc+) 
+
+[Go Back](#patterns)
