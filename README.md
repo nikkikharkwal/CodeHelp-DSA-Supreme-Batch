@@ -19,7 +19,7 @@ Notes and Codes for all lectures can be found in this repository.
 * Lectures
    * Programming Fundamentals
    * Create Your First Program & a lot more
-   * [Patterns](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Patterns "Patterns")
+   * [Patterns](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Patterns "Patterns") (For a better understanding, click on it and read the readme)
 * [Notes](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Notes "Download The Notes")
 * [Slides](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Slides "Lecture Slides")
 * [Codes](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Codes "Lecture Codes")
