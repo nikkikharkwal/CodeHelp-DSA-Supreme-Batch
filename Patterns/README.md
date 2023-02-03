@@ -20,6 +20,15 @@ A pattern provides a general template for a solution that can be applied in many
 | Numeric Hollow Inverted Half Pyramid | [View](#numeric-hollow-inverted-half-pyramid "View the pattern") | [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericHollowInvertedHalfPyramid.cpp "Numeric Hollow Inverted Half Pyramid Solution") |
 | Solid Rhombus                        |            [View](#solid-rhombus "View the pattern")             |                      [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRhombus.cpp "Solid Rhombus Solution")                       |
 | Butterfly Star Pattern               |        [View](#butterfly-star-pattern "View the pattern")        |  [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/ButterflyStarPattern.cpp "Butterfly Star Pattern Solution")   |
+| Numeric Hollow Pyramid | | |
+| Solid Diamond | | |
+| Hollow Diamond | | |
+| Flipped Solid Diamond | | |
+| Fancy Pattern 1 | | |
+| Fancy Pattern 2 | | |
+| Fancy Pattern 3 | | |
+| Fancy Pattern 4 | | |
+| Alphabet Palindrome Pyramid | | |
 
 <br/>
 <br/>
@@ -98,6 +107,47 @@ A pattern provides a general template for a solution that can be applied in many
 
 ![Butterfly Star Pattern](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Butterfly%20Star%20Pattern.png)
 [Go Back](#patterns)
+
+## Numeric Hollow Pyramid
+
+![Numeric Hollow Pyramid](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Numeric%20Hollow%20Pyramid.png)
+[Go Back](#patterns)
+
+## Solid Diamond
+
+![Solid Diamond](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Solid%20Diamond.png)
+[Go Back](#patterns)
+
+## Hollow Diamond
+
+![Hollow Diamond](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Hollow%20Diamond.png)
+[Go Back](#patterns)
+
+## Flipped Solid Diamond
+
+![Flipped Solid Diamond](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Flipped%20Solid%20Diamond.png)
+[Go Back](#patterns)
+
+## Fancy Pattern 1
+
+![Fancy Pattern 1](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%201.png)
+[Go Back](#patterns)
+
+## Fancy Pattern 2
+
+![Fancy Pattern 2](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%202.png)
+[Go Back](#patterns)
+
+## Alphabet Palindrome Pyramid
+
+![Alphabet Palindrome Pyramid](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Alphabet%20Palindrome%20Pyramid.png)
+[Go Back](#patterns)
+
+
+<!-- ## 
+
+![]()
+[Go Back](#patterns) -->
 
 <br/>
 
