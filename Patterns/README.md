@@ -20,15 +20,15 @@ A pattern provides a general template for a solution that can be applied in many
 | Numeric Hollow Inverted Half Pyramid | [View](#numeric-hollow-inverted-half-pyramid "View the pattern") | [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericHollowInvertedHalfPyramid.cpp "Numeric Hollow Inverted Half Pyramid Solution") |
 | Solid Rhombus                        |            [View](#solid-rhombus "View the pattern")             |                      [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRhombus.cpp "Solid Rhombus Solution")                       |
 | Butterfly Star Pattern               |        [View](#butterfly-star-pattern "View the pattern")        |  [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/ButterflyStarPattern.cpp "Butterfly Star Pattern Solution")   |
-| Numeric Hollow Pyramid | | |
-| Solid Diamond | | |
-| Hollow Diamond | | |
-| Flipped Solid Diamond | | |
-| Fancy Pattern 1 | | |
-| Fancy Pattern 2 | | |
-| Fancy Pattern 3 | | |
-| Fancy Pattern 4 | | |
-| Alphabet Palindrome Pyramid | | |
+| Numeric Hollow Pyramid | [View](#numeric-hollow-pyramid "View the pattern") | |
+| Solid Diamond | [View](#solid-diamond "View the pattern") | |
+| Hollow Diamond | [View](#hollow-diamond "View the pattern") | |
+| Flipped Solid Diamond | [View](#flipped-solid-diamond "View the pattern") | |
+| Fancy Pattern 1 | [View](#fancy-pattern-1 "View the pattern") | |
+| Fancy Pattern 2 | [View](#fancy-pattern-2 "View the pattern") | |
+| Fancy Pattern 3 | [View](#fancy-pattern-3 "View the pattern") | |
+| Fancy Pattern 4 | [View](#fancy-pattern-4 "View the pattern") | |
+| Alphabet Palindrome Pyramid | [View](#alphabet-palindrome-pyramid "View the pattern") | |
 
 <br/>
 <br/>
