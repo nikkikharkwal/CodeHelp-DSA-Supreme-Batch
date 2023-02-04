@@ -23,20 +23,21 @@ A pattern provides a general template for a solution that can be applied in many
 | Numeric Hollow Half Pyramid | [View](#numeric-hollow-half-pyramid "View the pattern") |  |
 | Solid Rhombus                        |            [View](#solid-rhombus "View the pattern")             |                      [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRhombus.cpp "Solid Rhombus Solution")                       |
 | Butterfly Star Pattern               |        [View](#butterfly-star-pattern "View the pattern")        |  [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/ButterflyStarPattern.cpp "Butterfly Star Pattern Solution")   |
-| Numeric Hollow Pyramid | [View](#numeric-hollow-pyramid "View the pattern") | |
-| Solid Diamond | [View](#solid-diamond "View the pattern") | |
-| Hollow Diamond | [View](#hollow-diamond "View the pattern") | |
-| Flipped Solid Diamond | [View](#flipped-solid-diamond "View the pattern") | |
-| Fancy Pattern 1 | [View](#fancy-pattern-1 "View the pattern") | |
-| Fancy Pattern 2 | [View](#fancy-pattern-2 "View the pattern") | |
-| Fancy Pattern 3 | [View](#fancy-pattern-3 "View the pattern") | |
-| Fancy Pattern 4 | [View](#fancy-pattern-4 "View the pattern") | |
-| Fancy Pattern 5 | [View](#fancy-pattern-5 "View the pattern") | |
-| Alphabet Palindrome Pyramid | [View](#alphabet-palindrome-pyramid "View the pattern") | |
+| Numeric Hollow Pyramid | [View](#numeric-hollow-pyramid "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/NumericHollowPyramid.cpp "Numeric Hollow Pyramid Solution") |
+| Solid Diamond | [View](#solid-diamond "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/SolidDiamond.cpp "Solid Diamond Solution") |
+| Hollow Diamond | [View](#hollow-diamond "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/HollowDiamond.cpp "Hollow Diamond Solution") |
+| Solid Half Diamond | [View](#solid-half-diamond "View the pattern") | |
+| Flipped Solid Diamond | [View](#flipped-solid-diamond "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FlippedSolidDiamond.cpp "Flipped Solid Diamond Solution") |
+| Fancy Pattern 1 | [View](#fancy-pattern-1 "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern1.cpp "Fancy Pattern 1 Solution") |
+| Fancy Pattern 2 | [View](#fancy-pattern-2 "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern2.cpp "Fancy Pattern 2 Solution") |
+| Fancy Pattern 3 | [View](#fancy-pattern-3 "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern3.cpp "Fancy Pattern 3 Solution") |
+| Fancy Pattern 4 | [View](#fancy-pattern-4 "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern4.cpp "Fancy Pattern 4 Solution") |
+| Fancy Pattern 5 | [View](#fancy-pattern-5 "View the pattern") | [Link]("Fancy Pattern 1 Solution") |
+| Alphabet Palindrome Pyramid | [View](#alphabet-palindrome-pyramid "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/AlphabetPalindromePyramid.cpp "Alphabet Palindrome Pyramid Solution") |
 | Floyd's Triangle | [View](#floyds-triangle "View the pattern") | |
 | Numeric Palindrome Equilateral Pyramid | [View](#numeric-palindrome-equilateral-pyramid "View the pattern") | |
 | Pascal's Triangle | [View](#pascals-triangle "View the pattern") | |
-| Solid Half Diamond | [View](#solid-half-diamond "View the pattern") | |
+
 
 <br/>
 <br/>
