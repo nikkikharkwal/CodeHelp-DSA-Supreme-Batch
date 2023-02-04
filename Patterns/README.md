@@ -28,6 +28,7 @@ A pattern provides a general template for a solution that can be applied in many
 | Fancy Pattern 2 | [View](#fancy-pattern-2 "View the pattern") | |
 | Fancy Pattern 3 | [View](#fancy-pattern-3 "View the pattern") | |
 | Fancy Pattern 4 | [View](#fancy-pattern-4 "View the pattern") | |
+| Fancy Pattern 5 | [View](#fancy-pattern-5 "View the pattern") | |
 | Alphabet Palindrome Pyramid | [View](#alphabet-palindrome-pyramid "View the pattern") | |
 
 <br/>
@@ -46,6 +47,11 @@ A pattern provides a general template for a solution that can be applied in many
 ![Solid Square](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Solid%20Square.png)
 [Go Back](#patterns)
 
+## Hollow Square
+
+![Hollow Square](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Hollow%20Square.png)
+[Go Back](#patterns)
+
 ## Hollow Rectangle
 
 ![Hollow Rectangle](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Hollow%20Rectangle.png)
@@ -61,6 +67,13 @@ A pattern provides a general template for a solution that can be applied in many
 <!-- Nikki Kharkwal -->
 
 ![Inverted Half Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Inverted%20Half%20Pyramid.png)
+[Go Back](#patterns)
+\
+## Hollow Inverted Half Pyramid
+
+<!-- Nikki Kharkwal -->
+
+![Hollow Inverted Half Pyramid](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Hollow%20Inverted%20Half%20Pyramid.png)
 [Go Back](#patterns)
 
 ## Numeric Half Pyramid
@@ -96,6 +109,11 @@ A pattern provides a general template for a solution that can be applied in many
 ## Numeric Hollow Inverted Half Pyramid
 
 ![Numeric Hollow Inverted Half Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Numeric%20Hollow%20Inverted%20Half%20Pyramid.png)
+[Go Back](#patterns)
+
+## Numeric Hollow Half Pyramid
+
+![Numeric Hollow Half Pyramid](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Numeric%20Hollow%20Half%20Pyramid.png)
 [Go Back](#patterns)
 
 ## Solid Rhombus
@@ -138,10 +156,45 @@ A pattern provides a general template for a solution that can be applied in many
 ![Fancy Pattern 2](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%202.png)
 [Go Back](#patterns)
 
+## Fancy Pattern 3
+
+![Fancy Pattern 3](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%203.png)
+[Go Back](#patterns) 
+
+## Fancy Pattern 4
+
+![Fancy Pattern 4](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%204.png)
+[Go Back](#patterns) 
+
+## Fancy Pattern 5
+
+![Fancy Pattern 5](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%205.png)
+[Go Back](#patterns) 
+
 ## Alphabet Palindrome Pyramid
 
 ![Alphabet Palindrome Pyramid](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Alphabet%20Palindrome%20Pyramid.png)
 [Go Back](#patterns)
+
+## Floyd's Triangle
+
+![Floyd's Triangle](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Floyd's%20Triangle.png)
+[Go Back](#patterns) 
+
+## Numeric Palindrome Equilateral Pyramid
+
+![Numeric Palindrome Equilateral Pyramid](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Numeric%20Palindrome%20Equilateral%20Pyramid.png)
+[Go Back](#patterns) 
+
+## Pascal's Triangle
+
+![Pascal's Triangle](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Pascal's%20Triangle.png)
+[Go Back](#patterns) 
+
+## Solid Half Diamond
+
+![Solid Half Diamond](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Solid%20Half%20Diamond.png)
+[Go Back](#patterns) 
 
 
 <!-- ## 
