@@ -4,40 +4,39 @@
 
 A pattern provides a general template for a solution that can be applied in many different situations. You can use these templates million of times to solve some specific types of problems.
 
-| Pattern Name                         |                              Image                               |                                                                       Solution                                                                       |
-| :----------------------------------- | :--------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Solid Rectangle                      |           [View](#solid-rectangle "View the pattern")            |                    [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRectangle.cpp "Solid Rectangle Solution")                     |
-| Solid Square                         |             [View](#solid-square "View the pattern")             |                       [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidSquare.cpp "Solid Square Solution")                        |
-| Hollow Square                         |             [View](#hollow-square "View the pattern")  | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/HollowSquare.cpp "Hollow Square Solution") |           
-| Hollow Rectangle                     |           [View](#hollow-rectangle "View the pattern")           |                   [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HollowRectangle.cpp "Hollow Rectangle Solution")                    |
-| Half Pyramid                         |             [View](#half-pyramid "View the pattern")             |                       [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HalfPyramid.cpp "Half Pyramid Solution")                        |
-| Inverted Half Pyramid                |        [View](#inverted-half-pyramid "View the pattern")         |               [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/InvertedHalfPyramid.cpp "Inverted Half Pyramid Solution")               |
-| Hollow Inverted Half Pyramid                        |             [View](#hollow-inverted-half-pyramid "View the pattern")             
-| Numeric Half Pyramid                 |         [View](#numeric-half-pyramid "View the pattern")         |                [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericHalfPyramid.cpp "Numeric Half Pyramid Solution")                |
-| Inverted Numeric Half Pyramid        |    [View](#inverted-numeric-half-pyramid "View the pattern")     |           [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/InvertedNumericHalfPyramid.cpp "Inverted Numeric Half Solution")            |
-| Full Pyramid                         |             [View](#full-pyramid "View the pattern")             |                       [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/FullPyramid.cpp "Full Pyramid Solution")                        |
-| Inverted Full Pyramid                |        [View](#inverted-full-pyramid "View the pattern")         |               [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/InvertedFullPyramid.cpp "Inverted Full Pyramid Solution")               |
-| Hollow Full Pyramid                  |         [View](#hollow-full-pyramid "View the pattern")          |                 [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HollowFullPyramid.cpp "Hollow Full Pyramid Solution")                 |
-| Numeric Full Pyramid                 |         [View](#numeric-full-pyramid "View the pattern")         |                [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericFullPyramid.cpp "Numeric Full Pyramid Solution")                |
-| Numeric Hollow Inverted Half Pyramid | [View](#numeric-hollow-inverted-half-pyramid "View the pattern") | [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericHollowInvertedHalfPyramid.cpp "Numeric Hollow Inverted Half Pyramid Solution") |
-| Numeric Hollow Half Pyramid | [View](#numeric-hollow-half-pyramid "View the pattern") |  |
-| Solid Rhombus                        |            [View](#solid-rhombus "View the pattern")             |                      [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRhombus.cpp "Solid Rhombus Solution")                       |
-| Butterfly Star Pattern               |        [View](#butterfly-star-pattern "View the pattern")        |  [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/ButterflyStarPattern.cpp "Butterfly Star Pattern Solution")   |
-| Numeric Hollow Pyramid | [View](#numeric-hollow-pyramid "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/NumericHollowPyramid.cpp "Numeric Hollow Pyramid Solution") |
-| Solid Diamond | [View](#solid-diamond "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/SolidDiamond.cpp "Solid Diamond Solution") |
-| Hollow Diamond | [View](#hollow-diamond "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/HollowDiamond.cpp "Hollow Diamond Solution") |
-| Solid Half Diamond | [View](#solid-half-diamond "View the pattern") | |
-| Flipped Solid Diamond | [View](#flipped-solid-diamond "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FlippedSolidDiamond.cpp "Flipped Solid Diamond Solution") |
-| Fancy Pattern 1 | [View](#fancy-pattern-1 "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern1.cpp "Fancy Pattern 1 Solution") |
-| Fancy Pattern 2 | [View](#fancy-pattern-2 "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern2.cpp "Fancy Pattern 2 Solution") |
-| Fancy Pattern 3 | [View](#fancy-pattern-3 "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern3.cpp "Fancy Pattern 3 Solution") |
-| Fancy Pattern 4 | [View](#fancy-pattern-4 "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern4.cpp "Fancy Pattern 4 Solution") |
-| Fancy Pattern 5 | [View](#fancy-pattern-5 "View the pattern") | [Link]("Fancy Pattern 1 Solution") |
-| Alphabet Palindrome Pyramid | [View](#alphabet-palindrome-pyramid "View the pattern") | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/AlphabetPalindromePyramid.cpp "Alphabet Palindrome Pyramid Solution") |
-| Floyd's Triangle | [View](#floyds-triangle "View the pattern") | |
-| Numeric Palindrome Equilateral Pyramid | [View](#numeric-palindrome-equilateral-pyramid "View the pattern") | |
-| Pascal's Triangle | [View](#pascals-triangle "View the pattern") | |
-
+| Pattern Name                           |                               Image                                |                                                                           Solution                                                                           |
+| :------------------------------------- | :----------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Solid Rectangle                        |            [View](#solid-rectangle "View the pattern")             |                        [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRectangle.cpp "Solid Rectangle Solution")                         |
+| Solid Square                           |              [View](#solid-square "View the pattern")              |                           [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidSquare.cpp "Solid Square Solution")                            |
+| Hollow Square                          |             [View](#hollow-square "View the pattern")              |               [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/HollowSquare.cpp "Hollow Square Solution")               |
+| Hollow Rectangle                       |            [View](#hollow-rectangle "View the pattern")            |                       [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HollowRectangle.cpp "Hollow Rectangle Solution")                        |
+| Half Pyramid                           |              [View](#half-pyramid "View the pattern")              |                           [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HalfPyramid.cpp "Half Pyramid Solution")                            |
+| Inverted Half Pyramid                  |         [View](#inverted-half-pyramid "View the pattern")          |                   [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/InvertedHalfPyramid.cpp "Inverted Half Pyramid Solution")                   |
+| Hollow Inverted Half Pyramid           |      [View](#hollow-inverted-half-pyramid "View the pattern")      | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/HollowInvertedHalfPyramid.cpp "Hollow Inverted Half Pyramid Solution") |
+| Numeric Half Pyramid                   |          [View](#numeric-half-pyramid "View the pattern")          |                    [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericHalfPyramid.cpp "Numeric Half Pyramid Solution")                    |
+| Inverted Numeric Half Pyramid          |     [View](#inverted-numeric-half-pyramid "View the pattern")      |               [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/InvertedNumericHalfPyramid.cpp "Inverted Numeric Half Solution")                |
+| Full Pyramid                           |              [View](#full-pyramid "View the pattern")              |                           [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/FullPyramid.cpp "Full Pyramid Solution")                            |
+| Inverted Full Pyramid                  |         [View](#inverted-full-pyramid "View the pattern")          |                   [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/InvertedFullPyramid.cpp "Inverted Full Pyramid Solution")                   |
+| Hollow Full Pyramid                    |          [View](#hollow-full-pyramid "View the pattern")           |                     [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HollowFullPyramid.cpp "Hollow Full Pyramid Solution")                     |
+| Numeric Full Pyramid                   |          [View](#numeric-full-pyramid "View the pattern")          |                    [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericFullPyramid.cpp "Numeric Full Pyramid Solution")                    |
+| Numeric Hollow Inverted Half Pyramid   |  [View](#numeric-hollow-inverted-half-pyramid "View the pattern")  |     [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericHollowInvertedHalfPyramid.cpp "Numeric Hollow Inverted Half Pyramid Solution")     |
+| Numeric Hollow Half Pyramid            |      [View](#numeric-hollow-half-pyramid "View the pattern")       |                                                                                                                                                              |
+| Solid Rhombus                          |             [View](#solid-rhombus "View the pattern")              |                          [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRhombus.cpp "Solid Rhombus Solution")                           |
+| Butterfly Star Pattern                 |         [View](#butterfly-star-pattern "View the pattern")         |      [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/ButterflyStarPattern.cpp "Butterfly Star Pattern Solution")       |
+| Numeric Hollow Pyramid                 |         [View](#numeric-hollow-pyramid "View the pattern")         |      [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/NumericHollowPyramid.cpp "Numeric Hollow Pyramid Solution")       |
+| Solid Diamond                          |             [View](#solid-diamond "View the pattern")              |               [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/SolidDiamond.cpp "Solid Diamond Solution")               |
+| Hollow Diamond                         |             [View](#hollow-diamond "View the pattern")             |              [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/HollowDiamond.cpp "Hollow Diamond Solution")              |
+| Solid Half Diamond                     |           [View](#solid-half-diamond "View the pattern")           |                                                                                                                                                              |
+| Flipped Solid Diamond                  |         [View](#flipped-solid-diamond "View the pattern")          |       [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FlippedSolidDiamond.cpp "Flipped Solid Diamond Solution")        |
+| Fancy Pattern 1                        |            [View](#fancy-pattern-1 "View the pattern")             |             [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern1.cpp "Fancy Pattern 1 Solution")              |
+| Fancy Pattern 2                        |            [View](#fancy-pattern-2 "View the pattern")             |             [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern2.cpp "Fancy Pattern 2 Solution")              |
+| Fancy Pattern 3                        |            [View](#fancy-pattern-3 "View the pattern")             |             [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern3.cpp "Fancy Pattern 3 Solution")              |
+| Fancy Pattern 4                        |            [View](#fancy-pattern-4 "View the pattern")             |             [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/FancyPattern4.cpp "Fancy Pattern 4 Solution")              |
+| Fancy Pattern 5                        |            [View](#fancy-pattern-5 "View the pattern")             |                                                              [Link]("Fancy Pattern 1 Solution")                                                              |
+| Alphabet Palindrome Pyramid            |      [View](#alphabet-palindrome-pyramid "View the pattern")       | [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/AlphabetPalindromePyramid.cpp "Alphabet Palindrome Pyramid Solution")  |
+| Floyd's Triangle                       |            [View](#floyds-triangle "View the pattern")             |                                                                                                                                                              |
+| Numeric Palindrome Equilateral Pyramid | [View](#numeric-palindrome-equilateral-pyramid "View the pattern") |                                                                                                                                                              |
+| Pascal's Triangle                      |            [View](#pascals-triangle "View the pattern")            |                                                                                                                                                              |
 
 <br/>
 <br/>
@@ -77,6 +76,7 @@ A pattern provides a general template for a solution that can be applied in many
 ![Inverted Half Pyramid](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/img/Inverted%20Half%20Pyramid.png)
 [Go Back](#patterns)
 \
+
 ## Hollow Inverted Half Pyramid
 
 <!-- Nikki Kharkwal -->
@@ -167,17 +167,17 @@ A pattern provides a general template for a solution that can be applied in many
 ## Fancy Pattern 3
 
 ![Fancy Pattern 3](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%203.png)
-[Go Back](#patterns) 
+[Go Back](#patterns)
 
 ## Fancy Pattern 4
 
 ![Fancy Pattern 4](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%204.png)
-[Go Back](#patterns) 
+[Go Back](#patterns)
 
 ## Fancy Pattern 5
 
 ![Fancy Pattern 5](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Fancy%20Pattern%205.png)
-[Go Back](#patterns) 
+[Go Back](#patterns)
 
 ## Alphabet Palindrome Pyramid
 
@@ -187,25 +187,24 @@ A pattern provides a general template for a solution that can be applied in many
 ## Floyd's Triangle
 
 ![Floyd's Triangle](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Floyd's%20Triangle.png)
-[Go Back](#patterns) 
+[Go Back](#patterns)
 
 ## Numeric Palindrome Equilateral Pyramid
 
 ![Numeric Palindrome Equilateral Pyramid](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Numeric%20Palindrome%20Equilateral%20Pyramid.png)
-[Go Back](#patterns) 
+[Go Back](#patterns)
 
 ## Pascal's Triangle
 
 ![Pascal's Triangle](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Pascal's%20Triangle.png)
-[Go Back](#patterns) 
+[Go Back](#patterns)
 
 ## Solid Half Diamond
 
 ![Solid Half Diamond](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/img/Solid%20Half%20Diamond.png)
-[Go Back](#patterns) 
+[Go Back](#patterns)
 
-
-<!-- ## 
+<!-- ##
 
 ![]()
 [Go Back](#patterns) -->
