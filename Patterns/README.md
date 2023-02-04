@@ -8,9 +8,11 @@ A pattern provides a general template for a solution that can be applied in many
 | :----------------------------------- | :--------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Solid Rectangle                      |           [View](#solid-rectangle "View the pattern")            |                    [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRectangle.cpp "Solid Rectangle Solution")                     |
 | Solid Square                         |             [View](#solid-square "View the pattern")             |                       [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidSquare.cpp "Solid Square Solution")                        |
+| Hollow Square                         |             [View](#hollow-square "View the pattern")             
 | Hollow Rectangle                     |           [View](#hollow-rectangle "View the pattern")           |                   [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HollowRectangle.cpp "Hollow Rectangle Solution")                    |
 | Half Pyramid                         |             [View](#half-pyramid "View the pattern")             |                       [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HalfPyramid.cpp "Half Pyramid Solution")                        |
 | Inverted Half Pyramid                |        [View](#inverted-half-pyramid "View the pattern")         |               [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/InvertedHalfPyramid.cpp "Inverted Half Pyramid Solution")               |
+| Hollow Inverted Half Pyramid                        |             [View](#hollow-inverted-half-pyramid "View the pattern")             
 | Numeric Half Pyramid                 |         [View](#numeric-half-pyramid "View the pattern")         |                [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericHalfPyramid.cpp "Numeric Half Pyramid Solution")                |
 | Inverted Numeric Half Pyramid        |    [View](#inverted-numeric-half-pyramid "View the pattern")     |           [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/InvertedNumericHalfPyramid.cpp "Inverted Numeric Half Solution")            |
 | Full Pyramid                         |             [View](#full-pyramid "View the pattern")             |                       [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/FullPyramid.cpp "Full Pyramid Solution")                        |
@@ -18,6 +20,7 @@ A pattern provides a general template for a solution that can be applied in many
 | Hollow Full Pyramid                  |         [View](#hollow-full-pyramid "View the pattern")          |                 [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/HollowFullPyramid.cpp "Hollow Full Pyramid Solution")                 |
 | Numeric Full Pyramid                 |         [View](#numeric-full-pyramid "View the pattern")         |                [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericFullPyramid.cpp "Numeric Full Pyramid Solution")                |
 | Numeric Hollow Inverted Half Pyramid | [View](#numeric-hollow-inverted-half-pyramid "View the pattern") | [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/NumericHollowInvertedHalfPyramid.cpp "Numeric Hollow Inverted Half Pyramid Solution") |
+| Numeric Hollow Half Pyramid | [View](#numeric-hollow-half-pyramid "View the pattern") |  |
 | Solid Rhombus                        |            [View](#solid-rhombus "View the pattern")             |                      [Link](https://github.com/nikkikharkwal/cpp/blob/main/Patterns/SolidRhombus.cpp "Solid Rhombus Solution")                       |
 | Butterfly Star Pattern               |        [View](#butterfly-star-pattern "View the pattern")        |  [Link](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/blob/main/Patterns/ButterflyStarPattern.cpp "Butterfly Star Pattern Solution")   |
 | Numeric Hollow Pyramid | [View](#numeric-hollow-pyramid "View the pattern") | |
@@ -30,6 +33,10 @@ A pattern provides a general template for a solution that can be applied in many
 | Fancy Pattern 4 | [View](#fancy-pattern-4 "View the pattern") | |
 | Fancy Pattern 5 | [View](#fancy-pattern-5 "View the pattern") | |
 | Alphabet Palindrome Pyramid | [View](#alphabet-palindrome-pyramid "View the pattern") | |
+| Floyd's Triangle | [View](#floyds-triangle "View the pattern") | |
+| Numeric Palindrome Equilateral Pyramid | [View](#numeric-palindrome-equilateral-pyramid "View the pattern") | |
+| Pascal's Triangle | [View](#pascals-triangle "View the pattern") | |
+| Solid Half Diamond | [View](#solid-half-diamond "View the pattern") | |
 
 <br/>
 <br/>
