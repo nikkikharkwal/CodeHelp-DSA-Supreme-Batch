@@ -20,6 +20,8 @@ Notes and Codes for all lectures can be found in this repository.
   - [Patterns](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Patterns "Patterns") (For a better understanding, click on it and read the readme)
   - Operators, Loops & Conditionals
   - Functions
+  - Time and Space Complexity
+  - Arrays
 - [Notes](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Notes "Download The Notes")
 - [Slides](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Slides "Lecture Slides")
 - [Codes](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Codes "Lecture Codes")
