@@ -22,6 +22,7 @@ Notes and Codes for all lectures can be found in this repository.
   - Functions
   - Time and Space Complexity
   - Arrays
+  - Searching & Sorting
 - [Notes](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Notes "Download The Notes")
 - [Slides](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Slides "Lecture Slides")
 - [Codes](https://github.com/nikkikharkwal/CodeHelp-DSA-Supreme-Batch/tree/main/Codes "Lecture Codes")
